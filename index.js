@@ -327,6 +327,7 @@ let arr5 = [1, 2, 3, 4, 5]
         return total + current;
     }, 0);
 console.log(arr5);
-console.log(arr5);
-console.log(arr5); // 
+/// 
  // Output: 30
+ //cpmmit chnage 
+heloo js 
