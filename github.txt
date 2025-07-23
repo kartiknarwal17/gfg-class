@@ -1,0 +1,40 @@
+ git hub cheat code file -:
+
+ 🔹 1. Initialize Git (if not already)
+
+git init
+
+🔹 2. Set your name and email (only once)
+
+git config --global user.name "Your Name"
+git config --global user.email “your@email.com"
+
+🔹 3. Add files to Git
+
+git add .
+
+🔹 4. Commit your changes
+
+
+git commit -m "Initial commit”
+
+
+🔁 Now link your GitHub repo
+🔹 5. Create a repo on GitHub
+👉 Go to https://github.com, create a new repository (don’t initialize with README)
+🔹 6. Add GitHub remote
+
+git remote add origin https://github.com/your-username/your-repo-name.git
+
+🔹 7. Check current branch
+
+git branch
+
+
+———To change your branch name from main to master——-
+git branch -m main master
+
+
+——- To rename your branch from master to main ——-
+Git branch -m master main 
+
